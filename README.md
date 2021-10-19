@@ -1,2 +1,2 @@
 # flappy
-  🐤 Flappy.
+  🐤 Flappy, but super scuffed.
